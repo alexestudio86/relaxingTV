@@ -30,8 +30,11 @@ figcaption {
 .mb-1 {
   margin-bottom:    4px;
 }
+.mb-2 {
+  margin-bottom:    8px;
+}
 .mb-4 {
-  margin-top:       56px;
+  margin-bottom:       56px;
 }
 .pl-1 {
   padding-left:     4px;
