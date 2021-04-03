@@ -24,6 +24,9 @@ figcaption {
 .mt-1 {
   margin-top:       4px;
 }
+.mt-2 {
+  margin-top:       8px;
+}
 .mt-4 {
   margin-top:       56px;
 }
@@ -34,7 +37,7 @@ figcaption {
   margin-bottom:    8px;
 }
 .mb-4 {
-  margin-bottom:       56px;
+  margin-bottom:    56px;
 }
 .pl-1 {
   padding-left:     4px;
@@ -46,24 +49,24 @@ figcaption {
   width:            100%;
 }
 .h-96 {
-  height:			96%;
+  height:			      96%;
 }
 .h-auto {
-  height:			auto;
+  height:			      auto;
 }
 
 /* Background video  */
 #dkBgHeader {
-  width:			100%;
-  height:			300px;
-  object-fit:		cover;
-  border-radius:	8px 8px 0 0;
+  width:			      100%;
+  height:			      300px;
+  object-fit:		    cover;
+  border-radius:	  8px 8px 0 0;
 }
 #mbBgHeader {
-  width:			100%;
-  height:			400px;
-  object-fit:		cover;
+  width:			      100%;
+  height:			      400px;
+  object-fit:		    cover;
 }
 .rounded-bottom {
-  border-radius:	0 0 8px 8px;
+  border-radius:	  0 0 8px 8px;
 }
